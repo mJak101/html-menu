@@ -4,6 +4,7 @@
 <head>
 <title> Home</title>
 <body lang="en" id="main_container", style="background:#995501;">
+
 <style>
 .wrapper {overflow: auto;}
 
@@ -35,7 +36,6 @@
 </style>
 
 <div style="solid #3366ff; float:center; background:#996323; width: 250px; height:25px">
-
 <center>
 <div class="wrapper">
   <div id="leftsidebar">
